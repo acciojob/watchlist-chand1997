@@ -1,4 +1,4 @@
-![image](https://github.com/acciojob/watchlist-chand1997/assets/95063529/84512d4e-5264-44b5-a766-8cfdd48cc2aa)# watchlist-chand1997
+
 
 1) @PostMapping("/add-movie")
    ![image](https://github.com/acciojob/watchlist-chand1997/assets/95063529/8ce08829-4e8e-471a-b37c-56f5e0cc25f9)
